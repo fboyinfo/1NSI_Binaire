@@ -1,6 +1,6 @@
 # Animation et travaux pratiques (1NSI - Introduction Bits et binaire)
 
-## 203404
+## 203404 - Quantité d'information en machine - logarithme base 2
 
 Matériel : 
 * marqueurs noirs
