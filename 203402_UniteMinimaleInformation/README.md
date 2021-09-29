@@ -1,17 +1,23 @@
 
 ## 203401 - Le bit unité binaire d'information (Introduction)
 
-Matériel : 
-Chaque groupe d'élèves (faire 8 groupes) reçoit un bit lumineux (une lampe qu'il peut allumer ou éteindre).
+Matériel :  Chaque groupe d'élèves (faire 8 groupes) reçoit un bit lumineux (une lampe qu'il peut allumer ou éteindre).
 Ils ont du préparer la sécance et visionner deux vidéos à la maison : 
+
 C'est Pas Sorcier : 
+
 https://www.youtube.com/watch?v=c96KP5jZVYk&feature=emb_logo
+
 Charles Babbage :
+
 https://www.youtube.com/watch?time_continue=1&v=KBuJqUfO4-w&feature=emb_logo
+
 https://www.youtube.com/watch?v=BlbQsKpq3Ak
 
 Les questions V/F sont dans 203401 - 402 - Questionnaire.pdf
+
 Discussion brève sur les vidéos et documents à consulter pour aujourd'hui
+
 Histoire et perspective de l'informatique :
 Vrai-Faux : Le calculateur par différence de Babbage, L'ordinateur.
 * Huit questions (Vrai / Faux) sont posés aux huit groupes d'élèves.
@@ -29,8 +35,3 @@ Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditio
 CC BY-NC-SA
 
 This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
-
-
-Regarder les deux vidéos : Il y aura une interrogation sur leur contenu : 
-Capsule 203401 - C'est pas sorcier ! L'ordinateur.
-Capsule 204101 - Le calculateur par différence de Babbage, L'ordinateur.
