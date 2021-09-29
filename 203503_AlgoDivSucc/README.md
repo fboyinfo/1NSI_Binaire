@@ -1,10 +1,8 @@
-
 ## 203503 - Algorithme des divisions successives avec des jetons
 Matériel : 
 Chaque élève reçoit 31 jetons
 
-Il doit trouver un algorithme pour arriver à former les paquets correspondants de la base 2. Voir la vidéo pour connaitre le travail attendu.
-
+Il doit trouver un algorithme pour arriver à former les paquets correspondants de la base 2 (18, 31, etc ...) L'algorithme doit être faisable par un enfant ne sachant pas compter. Voir la vidéo pour connaitre le travail attendu.
 
 ## Licence
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
