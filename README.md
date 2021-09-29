@@ -31,6 +31,16 @@ On peut recommencer l'activité avec soit
 * Une bande trop courte
 On lance ainsi le débat sur la quantité d'information, les puissances de 2, le log base 2,...
 
+
+## 203501 - Observation des portes logiques - Prise en main de logiciel et lien avec un circuit électronique.
+
+Matériel : 
+* Les élèves disposent par groupe d'une boite avec 5 leds de couleurs différentes. Cette boite dispose de deux boutons poussoirs A et B. Les Leds s'allument ou s'éteignent en fonction des doutons enfoncés.
+* Le fichier du boitier sur logisim.
+
+Chaque groupe doit résumer ses observations sur le comportement des leds en fonction de A et B. Ensuite il doit observer le circuit modélisé sur Logisim et dire quelle led de la modélisation correspond à quelle led du circuit réel.
+
+
 ## 203501 - Premiers pas en binaire
 Matériel :
 * 5 bits (rouge et blanc) marqués par la puissance de 2 correspondante (1,2,4,8,16) (voir photo)
