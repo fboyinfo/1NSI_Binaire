@@ -57,7 +57,25 @@ Reproduction à usage pédagogique uniquement.
 Matériel : 
 Chaque élève reçoit 31 jetons
 
-Il doit trouver un algorithme pour arriver à former les paquets correspondants de la base 2. Voir la vidéo pour connaitre le travail attendu.
+Il doit trouver un algorithme pour arriver à former les paquets correspondants de la base 2 (18, 31, etc ...) L'algorithme doit être faisable par un enfant ne sachant pas compter. Voir la vidéo pour connaitre le travail attendu.
+
+## 204403 - Demi additionneur débranché :
+
+Matériel : 
+* Un circuit vierge - voir document
+* Des portes logiques - voir document
+* Des bits bicolores (rouge d'un côté et blanc de l'autre) - voir photo
+* Une table de vérité du circuit
+
+Chaque élève reçoit un circuit papier où ne figure pas les portes et une table de vérité du circuit. Il doit repositionner les portes pour que le circuit ait le bon comprtement. Il dispose de bits pour simuler le comportement du circuit.
+
+## 204403 - Additionneur 4 bits débranché :
+
+Matériel :
+* Sur une planche ont été positionné plusieurs circuit (identiques au 204403). Le professeur a positionné des bits en entrée (à l'eat Haut ou Bas). Chaque groupe a une situation différente
+
+Les groupe passent un à un et doivent établir les états de sorties en positionant correctement les bits. Ils doivent ensuite réaliser l'additionneur 4 bits sur Logisim.
+
 
 
 ## Licence
