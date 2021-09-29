@@ -13,7 +13,7 @@ On peut recommencer l'activité avec soit
 * Une bande trop courte
 On lance ainsi le débat sur la quantité d'information, les puissances de 2, le log base 2,...
 
-## 203501 - Premier pas en binaire
+## 203501 - Premiers pas en binaire
 Matériel :
 * 5 bits (rouge et blanc) marqué par la puissance de 2 correspondante (1,2,4,8,16) (voir photo)
 * Une feuile d'exercices (Faire en binaire des nombres, dire de quel nombre il s'agit en binaire, trouver des règles concernant l'écriture binaire)
