@@ -1,36 +1,19 @@
-# Animation et Travaux Pratiques (1NSI - Introduction Bits et Binaire)
-
-## 203404 - Quantité d'information en machine - Logarithme base 2
+## 204403 - Demi additionneur débranché :
 
 Matériel : 
-* Marqueurs noirs
-* bandes massicotées, voir document 203404 et photos.
+* Un circuit vierge - voir document
+* Des portes logiques - voir document
+* Des bits bicolores (rouge d'un côté et blanc de l'autre) - voir photo
+* Une table de vérité du circuit
 
-Chaque élève reçoit une bande de papier, c'est un octet, la couleur rouge indique le bit de poids faible.
-Il doit s'arranger pour créer un code-barre qui soit unique pour chaque élève.
-On peut recommencer l'activité avec soit 
-* Une bande qui contient le juste nombre de bits (en fonction de l'effectif groupe avec lequel vous travaillez)
-* Une bande trop courte
-On lance ainsi le débat sur la quantité d'information, les puissances de 2, le log base 2,...
+Chaque élève reçoit un circuit papier où ne figure pas les portes et une table de vérité du circuit. Il doit repositionner les portes pour que le circuit ait le bon comprtement. Il dispose de bits pour simuler le comportement du circuit.
 
-## 203501 - Premiers pas en binaire
+## 204403 - Additionneur 4 bits débranché :
+
 Matériel :
-* 5 bits (rouge et blanc) marqués par la puissance de 2 correspondante (1,2,4,8,16) (voir photo)
-* Une feuile d'exercices (Faire en binaire des nombres, dire de quel nombre il s'agit en binaire, trouver des règles concernant l'écriture binaire)
+* Sur une planche ont été positionné plusieurs circuit (identiques au 204403). Le professeur a positionné des bits en entrée (à l'eat Haut ou Bas). Chaque groupe a une situation différente
 
-Chaque élève reçoit un registre de 5 bits qu'il doit positionner de droite à gauche selon les puissances de 2.
-On demande de compléter la feuilles puis de déduire des règles concernant le binaire.
-
-Inspiré de : Compter les points – Écriture binaire des nombres
-Reproduction à usage pédagogique uniquement.
-© 2005 Computer Science Unplugged (www.csunplugged.org)
-
-## 203503 - Algorithme des divisions successives avec des jetons
-Matériel : 
-Chaque élève reçoit 31 jetons
-
-Il doit trouver un algorithme pour arriver à former les paquets correspondants de la base 2. Voir la vidéo pour connaitre le travail attendu.
-
+Les groupe passent un à un et doivent établir les états de sorties en positionant correctement les bits. Ils doivent ensuite réaliser l'additionneur 4 bits sur Logisim.
 
 ## Licence
 Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
