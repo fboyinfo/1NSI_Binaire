@@ -18,13 +18,6 @@ Vrai-Faux : Le calculateur par différence de Babbage, L'ordinateur.
 * Le professeur cherche la ligne qui a le plus de bit activés (Algorithme, recherche d'un maximum, tri des valeurs) 
 * Le professeur déclare le groupe vainqueur (Sortie)
 
-## Licence
-Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions
-CC BY-NC-SA
-
-This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
-
-
 ## 203404 - Quantité d'information en machine - Logarithme base 2
 
 Matériel : 
