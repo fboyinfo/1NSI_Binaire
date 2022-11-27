@@ -1,5 +1,8 @@
 # Animation et Travaux Pratiques (1NSI - Introduction Bits et Binaire)
 
+## 203503 - Cours complet sur la représentation des entiers.
+
+Cours complet version élève et version corrigées pour la représentation des entiers et les changements de représentation.
 
 ## 203401 - Le bit unité binaire d'information (Introduction)
 
