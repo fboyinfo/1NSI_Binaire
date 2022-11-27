@@ -4,7 +4,7 @@
 
 Cours complet version élève et version corrigées pour la représentation des entiers et les changements de représentation.
 
-## 203401 - Le bit unité binaire d'information (Introduction)
+## 203402 - Le bit unité binaire d'information (Introduction)
 
 Matériel :  Chaque groupe d'élèves (faire 8 groupes) reçoit un bit lumineux (une lampe qu'il peut allumer ou éteindre).
 Ils ont du préparer la séance et visionner deux vidéos à la maison. On entame un Vrai-Faux sur les vidéos :
